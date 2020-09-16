@@ -1,0 +1,2 @@
+# statik
+statik.my.id
